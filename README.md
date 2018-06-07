@@ -1,7 +1,7 @@
 # PAT64V3_W8
 
 This software partially analyses images taken by the 
-[Medium to Large dynmaic phenotyping platform](https://www.plant-phenomics.ac.uk/index.php/resources/index.php/resources/lemnatec-system/) 
+[Medium to Large dynamic phenotyping platform](https://www.plant-phenomics.ac.uk/index.php/resources/index.php/resources/lemnatec-system/) 
 at the [NPPC](https://www.plant-phenomics.ac.uk). 
 
 In particular, this is the version of the software that was used to analyse the 'W8' wheat experiment.
@@ -29,5 +29,5 @@ This software was written by [Dr. Jiwan Han](https://www.plant-phenomics.ac.uk/i
 
 PAT64V3 has been [ported](https://TODO:link_to_PAT64V3_cp) to run on Linux 
 and compile with GCC. It is likely that it will also run and compile on most other platforms
-including Unix and MS Windows, but this has not been tested.  You should use that this version
+including Unix and MS Windows, but this has not been tested.  You should use that version
 instead.
