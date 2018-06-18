@@ -27,7 +27,7 @@ This software was written by [Dr. Jiwan Han](https://www.plant-phenomics.ac.uk/i
 
 ## PAT64V3_cp
 
-PAT64V3 has been [ported](https://TODO:link_to_PAT64V3_cp) to run on Linux 
+PAT64V3 has been [ported](https://github.com/NPPC-UK/PAT64V3_cp) to run on Linux 
 and compile with GCC. It is likely that it will also run and compile on most other platforms
 including Unix and MS Windows, but this has not been tested.  You should use that version
 instead.
