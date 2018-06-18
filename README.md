@@ -15,7 +15,7 @@ PAT64V3 will calculate things like the height of the plant, as well as the area 
 This software depends on [OpenCV](https://opencv.org/), and will probably only compile
 with [Visual Studio](https://www.visualstudio.com/).
 
-In this form, this software will only run on Microsoft Windows, as the backslash ('\') has 
+In this form, this software will only run on Microsoft Windows, as the backslash ('\\') has 
 been hard coded as the file separator.
 
 I recommend that this project only be used as a reference, ie. to inspect the algorithm's
